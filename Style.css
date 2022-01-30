@@ -358,15 +358,19 @@ section {
  .trainer-1{
       background-image: url("../Run-Buddy-HTML-main/assets/images/SAFFA.jpg");
       background-size: cover;
+      border-radius: 20%;
+      
  }
  
  .trainer-2{
       background-image: url("../Run-Buddy-HTML-main/assets/images/Arab-Trainer.jpg");
       background-size: cover;
+      border-radius: 20%;
  }
  .trainer-3{
       background-image: url("../Run-Buddy-HTML-main/assets/images/abdul.jpg");
       background-size: cover;
+      border-radius: 20%;
  }
  .trainer-img {
       width: 100%;
